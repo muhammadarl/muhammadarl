@@ -8,19 +8,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<div style="display: flex; justify-content: space-between;">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=muhammadarl&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=muhammadarl&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=muhammadarl&show_icons=true" />
-  </picture>
-
-  <img style="height:100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadarl&hide_progress=true" />
-</div>
+<a href="https://github.com/muhammadarl/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadarl" />
+</a>
+<a href="https://github.com/muhammadarl/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadarl&layout=compact&langs_count=8&card_width=320" />
+</a>
 
