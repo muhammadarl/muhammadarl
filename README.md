@@ -1,5 +1,5 @@
 <h1 align="center">
-				<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F7D078&background=77FF3A00&center=true&vCenter=true&random=false&width=900&lines=Welcome+to+my+professional+profile😆;I+am+Muhammad+Syiarul+Amrullah" alt="Welcoming Message">
+				<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7D078&background=77FF3A00&center=true&vCenter=true&random=false&width=900&lines=Welcome+to+my+professional+profile😆;I+am+Muhammad+Syiarul+Amrullah" alt="Welcoming Message">
 		</h1>
 		<h3 align="center">System Development Staff at PT. Pos Logistik Indonesia</h3>
   <div align="center">
