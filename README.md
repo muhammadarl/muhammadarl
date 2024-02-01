@@ -1,21 +1,31 @@
-<h1 align="center">
-				<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7D078&background=77FF3A00&center=true&vCenter=true&random=false&width=900&lines=Welcome+to+my+professional+profile😆;I+am+Muhammad+Syiarul+Amrullah" alt="Welcoming Message">
-		</h1>
-		<h3 align="center">System Development Staff at PT. Pos Logistik Indonesia</h3>
-  <div align="center">
-	  <a href="https://www.linkedin.com/in/muhammad-syiarul-amrullah/">
-	  <img align="center" height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-	  </a>
-	  <a href="https://medium.com/@syiarul45">
-	  <img align="center" height="30" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-	  </a>
-  </div>
-  <hr>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=muhammadarl" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadarl&layout=compact&langs_count=8&card_width=320" />
-</a>
+### Hi! 👋 I'm Muhammad Arul.
 
+I am an independent Machine Learning Engineer who loves creating and sharing projects about Deep Learning and Machine Learning. I enjoy using Python as the primary language for my projects. Currently, I am actively contributing as a System Development Staff at PT. Pos Logistik Indonesia to build web-based business solutions.
 
+- 🔭 I’m currently working on PT. Pos Logistik Indonesia.
+- 🌱 I’m currently learning about Artificial Intelligence Scope especially NLP, Computer Vision and Traditional Machine Learning.
+- 💬 Feel free to ask me about AI and Python
+- 📫 How to reach me: syiarul41@outlook.co.id
+- ⚡ Fun fact: I love to research like a mad scientist
+
+### Tech Stack
+  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+<a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" /></a>
+  <a href="#"><img align="left" alt="SQL" title="SQL" width="43px" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" /></a>
+  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
+  <br>
+  <br>
+  
+### Github Statistic
+<p align="left">
+<a href="https://github.com/dimasmds">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### Reach me on
+- <a href="https://linkedin.com/in/dimasmds/">LinkedIn</a>
+- <a href="https://dmds.dev">dmds.dev</a>
+- dimas@dicoding.com
+- <a href="https://twitter/dimsmds">Twitter</a>
