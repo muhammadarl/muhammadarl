@@ -3,7 +3,7 @@
 I am an independent Machine Learning Engineer who loves creating and sharing projects about Deep Learning and Machine Learning. I enjoy using Python as the primary language for my projects. Currently, I am actively contributing as a System Development Staff at PT. Pos Logistik Indonesia to build web-based business solutions.
 
 - 🔭 I’m currently working on PT. Pos Logistik Indonesia.
-- 🌱 I’m currently learning about Artificial Intelligence Scope especially NLP, Computer Vision and Traditional Machine Learning.
+- 🌱 I’m currently learning about Artificial Intelligence Scope especially NLP, Computer Vision and Predictive Analysis.
 - 💬 Feel free to ask me about AI and Python
 - 📫 How to reach me: syiarul41@outlook.co.id
 - ⚡ Fun fact: I love to research like a mad scientist
